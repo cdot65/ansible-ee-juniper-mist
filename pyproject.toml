@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "ansible-ee-nautobot-inventory"
+name = "ansible-ee-juniper-mist"
 version = "0.1.0"
-description = "Dynamic Inventory between Nautobot and Ansible AWX"
+description = ""
 authors = ["Calvin Remsburg <cremsburg@protonmail.com>"]
 license = "Apache 2.0"
 
